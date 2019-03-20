@@ -1,6 +1,6 @@
 #include <iostream>
 #include<cstdlib>
-#include <time.h>  +
+#include <time.h> 
 using namespace std;
 int i,x,win=0,z;
 string array[10];
